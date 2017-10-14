@@ -49,6 +49,8 @@ In the end, if you followed my instructions, the resulting tree view should be l
 That’s it! If needed, restart Gnome-shell, and your translation should be active.
 Update a translation
 
+### Update the translation
+
 If you add new strings to translate in your extension, you need to update the **.po** file. If you include a new source file, you must first re-run the command xgettext as previously, adding the new file.
 > xgettext -k_ -kN_ -o po/messages.pot extension.js file1.js prefs.js another_file.js
 
