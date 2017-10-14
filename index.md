@@ -1,7 +1,17 @@
 ### Briefly
 I have been struggling looking for some documentation when first starting developing my first Gnome-shell extensions.
+
 By looking at different projects on Github and some documentation around, I decided to gather some good practices into one place.
 Let's hope you can find some tips for your own extensions that you want to implement!
+
+### Articles
+
+* [Change the language of your extension](articles/update_language/update_language.md)
+
+
+
+
+
 
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
 
