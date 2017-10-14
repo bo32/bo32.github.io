@@ -47,7 +47,6 @@ In the end, if you followed my instructions, the resulting tree view should be l
 ![File tree view](img/treeview.png)
 
 That’s it! If needed, restart Gnome-shell, and your translation should be active.
-Update a translation
 
 ### Update the translation
 
